@@ -1,48 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shivam Badkas</title>
-    <link>https://shivambadkas.github.io/</link>
-    <description>Recent content on Shivam Badkas</description>
+    <title>Posts on Shivam Badkas</title>
+    <link>https://shivambadkas.github.io/post/</link>
+    <description>Recent content in Posts on Shivam Badkas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shivambadkas.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Project 1</title>
-      <link>https://shivambadkas.github.io/project/project1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://shivambadkas.github.io/project/project1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project 2</title>
-      <link>https://shivambadkas.github.io/project/project2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://shivambadkas.github.io/project/project2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project 3</title>
-      <link>https://shivambadkas.github.io/project/project3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://shivambadkas.github.io/project/project3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://shivambadkas.github.io/about/</link>
-      <pubDate>Sat, 27 Mar 2021 21:37:16 -0400</pubDate>
-      
-      <guid>https://shivambadkas.github.io/about/</guid>
-      <description>Hello and welcome! I am a recent graduate of the University of Toronto where I double majored in Statistics and Global Health and minored in Mathematics. A major theme of my education was the way in which climate change would affect human populations around the globe. I am interested in using statistics and data science to highlight the different ways in which climate change will affect the health of human populations around the globe.</description>
-    </item>
-    
+    <lastBuildDate>Sun, 28 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shivambadkas.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Migration and Health Research Prospectives</title>
       <link>https://shivambadkas.github.io/post/migration-and-health-research-perspectives/</link>
@@ -59,15 +23,6 @@
       
       <guid>https://shivambadkas.github.io/post/zoonotic-diseases-and-the-current-pandemic/</guid>
       <description>Reading the Trovao and Nelson papers about the origin and spread of pandemic influenza strains whilst experiencing it firsthand (in the ‘comfort’ of my own home) was quite surreal; it’s rare to read an academic paper that has tangible influence over ones person life. I would like to discuss how developing countries can minimize the probability of incidence of zoonotic diseases. The Trovao paper discussed how modern swine agriculture combined with global trade make the associated influenza virus extremely difficult to deal with.</description>
-    </item>
-    
-    <item>
-      <title>Project 4</title>
-      <link>https://shivambadkas.github.io/project/project4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://shivambadkas.github.io/project/project4/</guid>
-      <description></description>
     </item>
     
   </channel>
