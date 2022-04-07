@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>A Visual Analysis of Atmospheric CO2 Concentration</title>
+        
+        <style>
+
+    html body {
+        font-family: 'Raleway', sans-serif;
+        background-color: white;
+    }
+
+    :root {
+        --accent: red;
+        --border-width:  5px ;
+    }
+
+</style>
+
+
+<link rel="stylesheet" href="https://shivambadkas.github.io/css/main.css">
+
+
+
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+
+
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"> 
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+ 
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/go.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/haskell.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/kotlin.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/scala.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/swift.min.js"></script>
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+<script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
+ <meta name="generator" content="Hugo 0.82.0" />
+        
+
+        
+
+        
+            <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+        
+
+        
+
+    </head>
+
+    <body>
+        
+
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-brand visible-xs" href="#">A Visual Analysis of Atmospheric CO2 Concentration</a>
+                    <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="collapse navbar-collapse">
+                    
+                        <ul class="nav navbar-nav">
+                            
+                                <li><a href="https://shivambadkas.github.io/">Home</a></li>
+                            
+                                <li><a href="https://shivambadkas.github.io/about/">About/CV</a></li>
+                            
+                                <li><a href="https://shivambadkas.github.io/post/">Posts</a></li>
+                            
+                                <li><a href="https://shivambadkas.github.io/project/">Projects</a></li>
+                            
+                        </ul>
+                    
+                    
+                        <ul class="nav navbar-nav navbar-right">
+                            
+                                <li class="navbar-icon"><a href="mailto:shivambadkas@gmail.com"><i class="fas fa-envelope"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://github.com/shivambadkas"><i class="fab fa-github"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://www.linkedin.com/in/shivambadkas/"><i class="fab fa-linkedin"></i></a></li>
+                            
+                        </ul>
+                    
+                </div>
+            </div>
+        </nav>
+
+
+<main>
+
+    <div>
+        <h2>A Visual Analysis of Atmospheric CO2 Concentration</h2>
+        <h5>Bayesian Regression</h5>
+        
+
+    </div>
+
+    <div align="start" class="content"><p>The University of San Diego keeps detailed records of parts per million of carbon dioxide in the atmosphere at Mauna Loa Observatory in Hawaii, USA. Anthropogenic climate change is the foremost important issue this century and must be met with a global internationally organized pushback. Records from the observatory allow us to graph the effect of international political incidents which may increase or decrease the burning of fossil fuels. The figures are graphed from the year 1970, from when observations began.</p>
+<p>For this inference, I used a Bayesian regression model. Bayesian regression requires the known knowledge, called the prior, and then outputs the posterior distribution, which is the estimation of the parameters in question. In summary, Bayesian analysis works by finding the posterior distribution of the parameters using the prior knowledge and using the likelihood.</p>
+<p>CO2 concentration is periodic throughout the year, so four terms for season predictors were added. For the annual cycle cos12 = cos(2 * pi * co2s$days/365.25) and
+sin12 = sin(2 * pi * co2s$days/365.25), and cos(2 * 2 * pi * co2s$days/365.25) and sin(2 * 2 * pi * co2s$days/365.25) for a half year semi annual cycle were added, with days representing the number of days since 1970.1.1. It was assumed that the difference of time measured in days followed a Normal distribution and the increase in CO2 was by 1% per year. Time was treated as a random walk 2 effect and the four seasonality predictors were fit as fixed effects and a generalized linear gamma model was fit using INLA, which allows for Bayesian inferencing for latent Gaussian Markov random fields (GMRF).</p>
+<p>The CO2 concentration prediction plot was graphed with 95% credible intervals. Next, the the first derivative plot was graphed with references to 7 specific world events such as recessions, embargo&rsquo;s, and wars, which are are marked by a vertical line. The graph measures change in ppm, not overall ppm. The 1973 OPEC oil embargo culminated when Arab oil powers put a ban on selling oil to nations which it deemed as supporting Israel during the Yom Kippur War. Right after the blue line, there is a sharp decline which then goes right back up, implying that the oil embargo resulted in industrialized nations consuming less oil and thus emitting less CO2 globally. The next major event, the early 1980s recession is dated from 1980 to 1982 end. The graph displays that atmospheric CO2 ppm plummeted significantly and then seemed to come back up near the end of 1982. Clearly, the recession had a positive impact on emissions. The next event is the fall of the Berlin Wall, which signified the fall of the Soviet Union. The ppm change fell to its lowest point. The next event, China joining the World Trade Organization indicates that ppm change went higher as a result of more CO2 being emitted into the atmosphere. The 2008 global recession does not show much change, if anything carbon emissions were higher. The final global event, the Paris Climate Agreement, shows that there was a small decrease in ppm change but then it came back to what it was. To be more effective, the Paris Agreement needs to be more aggressive. Humanity’s window for solving climate change is closing fast, significant action needs to be taken in the next decade in order for our species to have a chance.</p>
+<p><img src="https://shivambadkas.github.io/images/image_1.png" alt="Seasonal Effect with 95% Credible Intervals">
+<img src="https://shivambadkas.github.io/images/image_2.png" alt="Approximate Change in PPM over Decades"></p>
+<p>In conclusion, the derivative plot shows the change of the ppm change over the years and can be used to see how CO2 emissions change along with world events.</p>
+</div>
+
+</main>
+
+        <footer>
+            <p class="copyright text-muted">© All rights reserved. Powered by <a href="https://gohugo.io">Hugo</a> and <a href="https://github.com/calintat/minimal">Minimal</a>.</p>
+        </footer>
+
+        
+
+        
+    </body>
+
+</html>
+

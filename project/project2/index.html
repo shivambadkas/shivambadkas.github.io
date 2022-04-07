@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Incidence of Age of First Tobacco Use in American Youth</title>
+        
+        <style>
+
+    html body {
+        font-family: 'Raleway', sans-serif;
+        background-color: white;
+    }
+
+    :root {
+        --accent: red;
+        --border-width:  5px ;
+    }
+
+</style>
+
+
+<link rel="stylesheet" href="https://shivambadkas.github.io/css/main.css">
+
+
+
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+
+
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"> 
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+ 
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/go.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/haskell.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/kotlin.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/scala.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/swift.min.js"></script>
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+<script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
+ <meta name="generator" content="Hugo 0.82.0" />
+        
+
+        
+
+        
+            <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+        
+
+        
+
+    </head>
+
+    <body>
+        
+
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-brand visible-xs" href="#">Incidence of Age of First Tobacco Use in American Youth</a>
+                    <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="collapse navbar-collapse">
+                    
+                        <ul class="nav navbar-nav">
+                            
+                                <li><a href="https://shivambadkas.github.io/">Home</a></li>
+                            
+                                <li><a href="https://shivambadkas.github.io/about/">About/CV</a></li>
+                            
+                                <li><a href="https://shivambadkas.github.io/post/">Posts</a></li>
+                            
+                                <li><a href="https://shivambadkas.github.io/project/">Projects</a></li>
+                            
+                        </ul>
+                    
+                    
+                        <ul class="nav navbar-nav navbar-right">
+                            
+                                <li class="navbar-icon"><a href="mailto:shivambadkas@gmail.com"><i class="fas fa-envelope"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://github.com/shivambadkas"><i class="fab fa-github"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://www.linkedin.com/in/shivambadkas/"><i class="fab fa-linkedin"></i></a></li>
+                            
+                        </ul>
+                    
+                </div>
+            </div>
+        </nav>
+
+
+<main>
+
+    <div>
+        <h2>Incidence of Age of First Tobacco Use in American Youth</h2>
+        <h5>Survival Analysis</h5>
+        
+
+    </div>
+
+    <div align="start" class="content"><p>The 2014 American National Youth Tobacco Survey provides national data on youth’s (below 18) tobacco related beliefs and behaviours. The survey contains data for state, age, school, sex, rural/urban and ethnicity of secondary school students. The first goal of this analysis is to determine if the state the child lives in is more important than the specific school the child attends. The second goal is to determine whether two non-smoking children are equally as likely to try cigarettes the next month irrespective of age but provided that confounders of sex, rural/urban, and ethnicity and random effects of state and school are the same.</p>
+<p>A Weibull distribution was chosen because the incidence of trying tobacco only happens once. Bayesian inference will be used to analyze the survey data, using the INLA package in R. We assigned the hyperparameters for school a gamma prior, Gamma(0.5, 0.025) and for state Gamma(0.5, 0.05).</p>
+<p>Table 1 shows the 95% credible interval of standard deviation for the random effects, school and state. The lower bound for school is larger than the upper bound for state which signifies that the variation between states is smaller than among schools. We can conclude that the school a child attends is has a greater impact on the age of smoking than the state the child lives in. As a result, tobacco control programs should concern themselves with finding particular schools where smoking is a problem.</p>
+<p><img src="https://shivambadkas.github.io/images/p21.png" alt="Table 1"></p>
+<p>For the next goal, Figure 1 is the cumulative hazard function of the model, which is the integral of the hazard function. Therefore, the cumulative hazard function must have a constant slope (straight line) in order to be a first order Markov process. Since the cumulative hazard function in Figure 1 does not have a constant slope, it follows that first cigarette smoking does not have a flat hazard function and is not a first order Markov process. This means two similar nonsmoking children do not have the same probability of trying cigarettes within in the next month.</p>
+<p><img src="https://shivambadkas.github.io/images/p22.png" alt="Hazard Function Graph"></p>
+<p>Table 2 gives a summary for the fixed effects. We see that males are more likely to start smoking younger than females and rural kids do so more than their urban counterparts. Additionally, all ethnicities are significant in determining age except Pacific.  The acceleration factor for a child in a rural area compared to a a child in an urban area is is exp(0.1141) = 1.1209 with the credible interval (exp(0.0552), exp(0.1725)) = (1.0568, 1.1883). We can interpret this result as meaning the median time of first time smoking for a child living in an urban area is estimated to be 1.1209 more than a child in a rural area. The following analysis can be carried out for other covariate comparisons.</p>
+<p>To conclude, the school a child attends has a greater impact on the average age they start smoking rather than the state they live in. Second, two non smoking children do not have a similar probability of trying cigarettes next month given other factors are identical, and older children are more likely to first try smoking.</p>
+<p><img src="https://shivambadkas.github.io/images/p23.png" alt="Mixed Effects Summary"></p>
+</div>
+
+</main>
+
+        <footer>
+            <p class="copyright text-muted">© All rights reserved. Powered by <a href="https://gohugo.io">Hugo</a> and <a href="https://github.com/calintat/minimal">Minimal</a>.</p>
+        </footer>
+
+        
+
+        
+    </body>
+
+</html>
+

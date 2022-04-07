@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shivam Badkas</title>
+    <link>https://shivambadkas.github.io/</link>
+    <description>Recent content on Shivam Badkas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shivambadkas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Visual Analysis of Atmospheric CO2 Concentration</title>
+      <link>https://shivambadkas.github.io/project/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/project/project1/</guid>
+      <description>The University of San Diego keeps detailed records of parts per million of carbon dioxide in the atmosphere at Mauna Loa Observatory in Hawaii, USA. Anthropogenic climate change is the foremost important issue this century and must be met with a global internationally organized pushback. Records from the observatory allow us to graph the effect of international political incidents which may increase or decrease the burning of fossil fuels. The figures are graphed from the year 1970, from when observations began.</description>
+    </item>
+    
+    <item>
+      <title>Incidence of Age of First Tobacco Use in American Youth</title>
+      <link>https://shivambadkas.github.io/project/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/project/project2/</guid>
+      <description>The 2014 American National Youth Tobacco Survey provides national data on youth’s (below 18) tobacco related beliefs and behaviours. The survey contains data for state, age, school, sex, rural/urban and ethnicity of secondary school students. The first goal of this analysis is to determine if the state the child lives in is more important than the specific school the child attends. The second goal is to determine whether two non-smoking children are equally as likely to try cigarettes the next month irrespective of age but provided that confounders of sex, rural/urban, and ethnicity and random effects of state and school are the same.</description>
+    </item>
+    
+    <item>
+      <title>Project 3</title>
+      <link>https://shivambadkas.github.io/project/project3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/project/project3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://shivambadkas.github.io/about/</link>
+      <pubDate>Sat, 27 Mar 2021 21:37:16 -0400</pubDate>
+      
+      <guid>https://shivambadkas.github.io/about/</guid>
+      <description>Hello and welcome! I am a recent graduate of the University of Toronto where I double majored in Statistics and Global Health and minored in Mathematics. A major theme of my education was the way in which climate change would affect human populations around the globe. I am interested in using statistics and data science to highlight the different ways in which climate change will affect the health of human populations around the globe.</description>
+    </item>
+    
+    <item>
+      <title>Migration and Health Research Prospectives</title>
+      <link>https://shivambadkas.github.io/post/migration-and-health-research-perspectives/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/post/migration-and-health-research-perspectives/</guid>
+      <description>Groundbreaking and novel research is the pinnacle of scholarship and has been celebrated for millennia. Oftentimes, academics have posed controversial and unconventional solutions to problems and were ridiculed and humiliated only for their discoveries to revolutionize their field of study. The study of human health and migration are both not only controversial and sensitive subjects but are also politically charged. The links between migration and health are overwhelmingly complex and affect each other in various ways, and a new researcher must have ample knowledge of both fields in order to bridge them together.</description>
+    </item>
+    
+    <item>
+      <title>Zoonotic Diseases and the Current Pandemic</title>
+      <link>https://shivambadkas.github.io/post/zoonotic-diseases-and-the-current-pandemic/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/post/zoonotic-diseases-and-the-current-pandemic/</guid>
+      <description>Reading the Trovao and Nelson papers about the origin and spread of pandemic influenza strains whilst experiencing it firsthand (in the ‘comfort’ of my own home) was quite surreal; it’s rare to read an academic paper that has tangible influence over ones person life. I would like to discuss how developing countries can minimize the probability of incidence of zoonotic diseases. The Trovao paper discussed how modern swine agriculture combined with global trade make the associated influenza virus extremely difficult to deal with.</description>
+    </item>
+    
+    <item>
+      <title>Project 4</title>
+      <link>https://shivambadkas.github.io/project/project4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/project/project4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
