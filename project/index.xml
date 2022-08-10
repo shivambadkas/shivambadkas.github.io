@@ -25,21 +25,23 @@
     </item>
     
     <item>
-      <title>Project 3</title>
+      <title>Feature Selection for Cancer Diagnosis</title>
       <link>https://shivambadkas.github.io/project/project3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://shivambadkas.github.io/project/project3/</guid>
-      <description></description>
+      <description>Link to Project
+This was a dataset I found and as I exploring learning machine learning it seemed important to me to pinpoint important features in high dimenensional data. There are a bevy of useful algorithms such as PCA, SelectKbest, and Recursive Random Forests provided by scikit-learn and pandas. I used a cancer diagnosis dataset with approximately 33 features, and the end goal was to find out which features were the most important in predicting the target variable.</description>
     </item>
     
     <item>
-      <title>Project 4</title>
+      <title>Ridge and Lasso Regression</title>
       <link>https://shivambadkas.github.io/project/project4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://shivambadkas.github.io/project/project4/</guid>
-      <description></description>
+      <description>Link to Project
+A common problem that data scientists face is overfitting - their model follows the noise too closely. Regularization is basically a technique that adds a penalty for feature coefficients with large values, L1 and L2 are utilized by lasso and ridge regression respectively. In this project I use a dataset of insurance charges for healthcare expenses of households measure by predictors such as location, number of children, smoking status, and age.</description>
     </item>
     
   </channel>
