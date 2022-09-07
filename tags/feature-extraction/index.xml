@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feature Extraction on Shivam Badkas</title>
+    <link>https://shivambadkas.github.io/tags/feature-extraction/</link>
+    <description>Recent content in Feature Extraction on Shivam Badkas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://shivambadkas.github.io/tags/feature-extraction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Feature Selection for Cancer Diagnosis</title>
+      <link>https://shivambadkas.github.io/project/project3/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/project/project3/</guid>
+      <description>Link to Project
+This was a dataset I found and as I exploring learning machine learning it seemed important to me to pinpoint important features in high dimenensional data. There are a bevy of useful algorithms such as PCA, SelectKbest, and Recursive Random Forests provided by scikit-learn and pandas. I used a cancer diagnosis dataset with approximately 33 features, and the end goal was to find out which features were the most important in predicting the target variable.</description>
+    </item>
+    
+  </channel>
+</rss>

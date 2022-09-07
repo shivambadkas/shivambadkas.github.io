@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lasso Regression on Shivam Badkas</title>
+    <link>https://shivambadkas.github.io/tags/lasso-regression/</link>
+    <description>Recent content in Lasso Regression on Shivam Badkas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://shivambadkas.github.io/tags/lasso-regression/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ridge and Lasso Regression</title>
+      <link>https://shivambadkas.github.io/project/project4/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/project/project4/</guid>
+      <description>Link to Project
+A common problem that data scientists face is overfitting - their model follows the noise too closely. Regularization is basically a technique that adds a penalty for feature coefficients with large values, L1 and L2 are utilized by lasso and ridge regression respectively. In this project I use a dataset of insurance charges for healthcare expenses of households measure by predictors such as location, number of children, smoking status, and age.</description>
+    </item>
+    
+  </channel>
+</rss>

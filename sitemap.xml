@@ -3,21 +3,108 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://shivambadkas.github.io/project/project1/</loc>
+    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shivambadkas.github.io/project/project2/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shivambadkas.github.io/project/project3/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/project/project5/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/project/project6/</loc>
+    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/tags/book-review/</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/book-reviews/</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/book-reviews/quichotte/</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/tags/</loc>
+    <lastmod>2022-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/book-reviews/shalimar-the-clown/</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/tags/pca/</loc>
+    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/project/</loc>
+    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/tags/t-sne/</loc>
+    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/tags/k-nn/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/tags/logistic-regression/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/tags/random-forest/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/tags/lasso-regression/</loc>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/tags/regularization/</loc>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/project/project4/</loc>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/tags/ridge-regression/</loc>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/tags/feature-extraction/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/tags/recursive-random-forests/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/tags/selectkbest/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shivambadkas.github.io/post/political_organization/</loc>
+    <lastmod>2022-04-15T04:36:44-04:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/tags/literature/</loc>
+    <lastmod>2022-04-15T04:36:44-04:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/tags/opinion/</loc>
+    <lastmod>2022-04-15T04:36:44-04:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/tags/politics/</loc>
     <lastmod>2022-04-15T04:36:44-04:00</lastmod>
   </url><url>
     <loc>https://shivambadkas.github.io/post/</loc>
     <lastmod>2022-04-15T04:36:44-04:00</lastmod>
   </url><url>
-    <loc>https://shivambadkas.github.io/</loc>
+    <loc>https://shivambadkas.github.io/tags/review/</loc>
     <lastmod>2022-04-15T04:36:44-04:00</lastmod>
   </url><url>
+    <loc>https://shivambadkas.github.io/tags/bayesian-inferencing/</loc>
+    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/tags/derivative-plots/</loc>
+    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/tags/inla/</loc>
+    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://shivambadkas.github.io/about/</loc>
+    <lastmod>2021-03-27T21:37:16-04:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/photos/</loc>
     <lastmod>2021-03-27T21:37:16-04:00</lastmod>
   </url><url>
     <loc>https://shivambadkas.github.io/tags/academia/</loc>
@@ -32,11 +119,14 @@
     <loc>https://shivambadkas.github.io/post/migration-and-health-research-perspectives/</loc>
     <lastmod>2021-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shivambadkas.github.io/tags/opinion/</loc>
-    <lastmod>2021-03-28T00:00:00+00:00</lastmod>
+    <loc>https://shivambadkas.github.io/tags/gamma-distribution/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://shivambadkas.github.io/tags/</loc>
-    <lastmod>2021-03-28T00:00:00+00:00</lastmod>
+    <loc>https://shivambadkas.github.io/tags/mixed-models/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shivambadkas.github.io/tags/survival-analysis/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shivambadkas.github.io/tags/agriculture/</loc>
     <lastmod>2020-03-25T00:00:00+00:00</lastmod>
@@ -54,9 +144,5 @@
     <lastmod>2020-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shivambadkas.github.io/categories/</loc>
-  </url><url>
-    <loc>https://shivambadkas.github.io/project/project4/</loc>
-  </url><url>
-    <loc>https://shivambadkas.github.io/project/</loc>
   </url>
 </urlset>

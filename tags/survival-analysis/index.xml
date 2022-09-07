@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Survival Analysis on Shivam Badkas</title>
+    <link>https://shivambadkas.github.io/tags/survival-analysis/</link>
+    <description>Recent content in Survival Analysis on Shivam Badkas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://shivambadkas.github.io/tags/survival-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Incidence of Age of First Tobacco Use in American Youth</title>
+      <link>https://shivambadkas.github.io/project/project2/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/project/project2/</guid>
+      <description>The 2014 American National Youth Tobacco Survey provides national data on youth’s (below 18) tobacco related beliefs and behaviours. The survey contains data for state, age, school, sex, rural/urban and ethnicity of secondary school students. The first goal of this analysis is to determine if the state the child lives in is more important than the specific school the child attends. The second goal is to determine whether two non-smoking children are equally as likely to try cigarettes the next month irrespective of age but provided that confounders of sex, rural/urban, and ethnicity and random effects of state and school are the same.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,11 +5,12 @@
     <link>https://shivambadkas.github.io/project/</link>
     <description>Recent content in Projects on Shivam Badkas</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://shivambadkas.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://shivambadkas.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Visual Analysis of Atmospheric CO2 Concentration</title>
       <link>https://shivambadkas.github.io/project/project1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://shivambadkas.github.io/project/project1/</guid>
       <description>The University of San Diego keeps detailed records of parts per million of carbon dioxide in the atmosphere at Mauna Loa Observatory in Hawaii, USA. Anthropogenic climate change is the foremost important issue this century and must be met with a global internationally organized pushback. Records from the observatory allow us to graph the effect of international political incidents which may increase or decrease the burning of fossil fuels. The figures are graphed from the year 1970, from when observations began.</description>
@@ -18,28 +19,50 @@
     <item>
       <title>Incidence of Age of First Tobacco Use in American Youth</title>
       <link>https://shivambadkas.github.io/project/project2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://shivambadkas.github.io/project/project2/</guid>
       <description>The 2014 American National Youth Tobacco Survey provides national data on youth’s (below 18) tobacco related beliefs and behaviours. The survey contains data for state, age, school, sex, rural/urban and ethnicity of secondary school students. The first goal of this analysis is to determine if the state the child lives in is more important than the specific school the child attends. The second goal is to determine whether two non-smoking children are equally as likely to try cigarettes the next month irrespective of age but provided that confounders of sex, rural/urban, and ethnicity and random effects of state and school are the same.</description>
     </item>
     
     <item>
-      <title>Project 3</title>
+      <title>Feature Selection for Cancer Diagnosis</title>
       <link>https://shivambadkas.github.io/project/project3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://shivambadkas.github.io/project/project3/</guid>
-      <description></description>
+      <description>Link to Project
+This was a dataset I found and as I exploring learning machine learning it seemed important to me to pinpoint important features in high dimenensional data. There are a bevy of useful algorithms such as PCA, SelectKbest, and Recursive Random Forests provided by scikit-learn and pandas. I used a cancer diagnosis dataset with approximately 33 features, and the end goal was to find out which features were the most important in predicting the target variable.</description>
     </item>
     
     <item>
-      <title>Project 4</title>
+      <title>Classification  of Disease</title>
+      <link>https://shivambadkas.github.io/project/project5/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/project/project5/</guid>
+      <description>Link to Project
+This project utilizes many of the standard classification algorithms to predict whether or not a patient has liver disease. The dataset is taken from the UCI repository and is a real world dataset containing 583x11 observations. First, I explore the data, find trends, and just get an overall feel fot the dataset. Next, I use train_test_split to section the data into training and test sets. I use K-NN, a Decision Tree, Logistic Regression, and Random Forest algorithms to create classification models.</description>
+    </item>
+    
+    <item>
+      <title>Dimensionality Reduction</title>
+      <link>https://shivambadkas.github.io/project/project6/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/project/project6/</guid>
+      <description>Link to Project
+One major problem of high dimensional data is the difficulty in interpreting and computing data not in three dimensions. The curse of dimensionality refers to the problems that arise with data with a high amount of features, therefore it is wise to reduce dimensions for many reasons including computation, model performance, and interpretability. Principal Components Analysis is a linear unsupervised learning algorithm which essentially transforms the original set of vectors into a new set.</description>
+    </item>
+    
+    <item>
+      <title>Ridge and Lasso Regression</title>
       <link>https://shivambadkas.github.io/project/project4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://shivambadkas.github.io/project/project4/</guid>
-      <description></description>
+      <description>Link to Project
+A common problem that data scientists face is overfitting - their model follows the noise too closely. Regularization is basically a technique that adds a penalty for feature coefficients with large values, L1 and L2 are utilized by lasso and ridge regression respectively. In this project I use a dataset of insurance charges for healthcare expenses of households measure by predictors such as location, number of children, smoking status, and age.</description>
     </item>
     
   </channel>

@@ -6,11 +6,11 @@
     <description>Recent content on Shivam Badkas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Apr 2022 04:36:44 -0400</lastBuildDate><atom:link href="https://shivambadkas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://shivambadkas.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Visual Analysis of Atmospheric CO2 Concentration</title>
       <link>https://shivambadkas.github.io/project/project1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://shivambadkas.github.io/project/project1/</guid>
       <description>The University of San Diego keeps detailed records of parts per million of carbon dioxide in the atmosphere at Mauna Loa Observatory in Hawaii, USA. Anthropogenic climate change is the foremost important issue this century and must be met with a global internationally organized pushback. Records from the observatory allow us to graph the effect of international political incidents which may increase or decrease the burning of fossil fuels. The figures are graphed from the year 1970, from when observations began.</description>
@@ -19,19 +19,69 @@
     <item>
       <title>Incidence of Age of First Tobacco Use in American Youth</title>
       <link>https://shivambadkas.github.io/project/project2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://shivambadkas.github.io/project/project2/</guid>
       <description>The 2014 American National Youth Tobacco Survey provides national data on youth’s (below 18) tobacco related beliefs and behaviours. The survey contains data for state, age, school, sex, rural/urban and ethnicity of secondary school students. The first goal of this analysis is to determine if the state the child lives in is more important than the specific school the child attends. The second goal is to determine whether two non-smoking children are equally as likely to try cigarettes the next month irrespective of age but provided that confounders of sex, rural/urban, and ethnicity and random effects of state and school are the same.</description>
     </item>
     
     <item>
-      <title>Project 3</title>
+      <title>Feature Selection for Cancer Diagnosis</title>
       <link>https://shivambadkas.github.io/project/project3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://shivambadkas.github.io/project/project3/</guid>
-      <description></description>
+      <description>Link to Project
+This was a dataset I found and as I exploring learning machine learning it seemed important to me to pinpoint important features in high dimenensional data. There are a bevy of useful algorithms such as PCA, SelectKbest, and Recursive Random Forests provided by scikit-learn and pandas. I used a cancer diagnosis dataset with approximately 33 features, and the end goal was to find out which features were the most important in predicting the target variable.</description>
+    </item>
+    
+    <item>
+      <title>Classification  of Disease</title>
+      <link>https://shivambadkas.github.io/project/project5/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/project/project5/</guid>
+      <description>Link to Project
+This project utilizes many of the standard classification algorithms to predict whether or not a patient has liver disease. The dataset is taken from the UCI repository and is a real world dataset containing 583x11 observations. First, I explore the data, find trends, and just get an overall feel fot the dataset. Next, I use train_test_split to section the data into training and test sets. I use K-NN, a Decision Tree, Logistic Regression, and Random Forest algorithms to create classification models.</description>
+    </item>
+    
+    <item>
+      <title>Dimensionality Reduction</title>
+      <link>https://shivambadkas.github.io/project/project6/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/project/project6/</guid>
+      <description>Link to Project
+One major problem of high dimensional data is the difficulty in interpreting and computing data not in three dimensions. The curse of dimensionality refers to the problems that arise with data with a high amount of features, therefore it is wise to reduce dimensions for many reasons including computation, model performance, and interpretability. Principal Components Analysis is a linear unsupervised learning algorithm which essentially transforms the original set of vectors into a new set.</description>
+    </item>
+    
+    <item>
+      <title>Quichotte- Salman Rushdie (2019)</title>
+      <link>https://shivambadkas.github.io/book-reviews/quichotte/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/book-reviews/quichotte/</guid>
+      <description>Quichotte - Salman Rushdie (2019)
+Quichotte quickly become one of my favourite reads, Salman Rushdie’s 2019 novel inspired by Don Quixote is an inspiring and heartwarming novel about family and identity. The novel at its core follows Ismail Smile - a travelling salesman of pharmaceuticals on his quest to win the affections of a television talk show host. His adventures across America present a satire on the sphere of the (first?</description>
+    </item>
+    
+    <item>
+      <title>Shalimar the Clown - Salman Rushdie (2005)</title>
+      <link>https://shivambadkas.github.io/book-reviews/shalimar-the-clown/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/book-reviews/shalimar-the-clown/</guid>
+      <description>Shalimar the Clown is British-Indian author Salman Rushdie’s eighth novel, a globe trotting magical realism tragedy that reads like a thriller. The title ‘Shalimar’ comes from the famous Indian dynasty Mughal gardens of Kashmir, also the name of a character. As with many Rushdie stories, the characters themselves represent themes that Rushdie has given them, and their lives are mirrors of the history in which they live in. Rushdie generally incorporates Hindu allegory into his novels, as well as various aspects of South Asian culture and history.</description>
+    </item>
+    
+    <item>
+      <title>Ridge and Lasso Regression</title>
+      <link>https://shivambadkas.github.io/project/project4/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/project/project4/</guid>
+      <description>Link to Project
+A common problem that data scientists face is overfitting - their model follows the noise too closely. Regularization is basically a technique that adds a penalty for feature coefficients with large values, L1 and L2 are utilized by lasso and ridge regression respectively. In this project I use a dataset of insurance charges for healthcare expenses of households measure by predictors such as location, number of children, smoking status, and age.</description>
     </item>
     
     <item>
@@ -40,7 +90,7 @@
       <pubDate>Fri, 15 Apr 2022 04:36:44 -0400</pubDate>
       
       <guid>https://shivambadkas.github.io/post/political_organization/</guid>
-      <description>Since Covid-19 began, I started reading fiction again after negating it for essentially my entire undergraduate career. I mostly read a bunch of Indian authors and some important works of the Independence Movement. Reading magazine articles and essays and primary works from a wide range of veiws astounded me as to how varied and globally influential movement was and how difficult it would be to understand it fully.</description>
+      <description>Since Covid-19 began, I started reading fiction again after negating it for essentially my entire undergraduate career. I started reading more Indian authors and some important works of the Indian Independence Movement which achieved its goal with the newly created Indian Republic in 1947. Reading magazine articles and essays and primary works astounded me as to how really how historically significant the movement was. In particular, it was interesting to see how the various leaders organized their respective communities into unifying faith, class, creed, and gender against the British Empire, perhaps a first in the world.</description>
     </item>
     
     <item>
@@ -49,7 +99,17 @@
       <pubDate>Sat, 27 Mar 2021 21:37:16 -0400</pubDate>
       
       <guid>https://shivambadkas.github.io/about/</guid>
-      <description>Hello and welcome! I am a recent graduate of the University of Toronto where I double majored in Statistics and Global Health and minored in Mathematics. A major theme of my education was the way in which climate change would affect human populations around the globe. I am interested in using statistics and data science to highlight the different ways in which climate change will affect the health of human populations around the globe.</description>
+      <description>Hello and welcome! I am a recent graduate of the University of Toronto where I double majored in Statistics and Global Health. A major theme of my education were the manners and magnitudes in which anthropogenic climate change will affect human populations around the globe. I am interested in using machine learning and data science to highlight the different ways in which climate change will affect life on our planet.</description>
+    </item>
+    
+    <item>
+      <title>My Photography</title>
+      <link>https://shivambadkas.github.io/photos/</link>
+      <pubDate>Sat, 27 Mar 2021 21:37:16 -0400</pubDate>
+      
+      <guid>https://shivambadkas.github.io/photos/</guid>
+      <description>I realized that it feels nicer to have photo prints and hold your pictures instead of looking at them on a screen. I decided to get a film camera and then a mirrorless camera shortly after. I love the way film captures light and the process of taking the shot and not knowing how it turned out until the roll is developed.
+This is a collection of my photos taken from both my Canon AV-1 film camera and mirrorless Fujifilm X-100T.</description>
     </item>
     
     <item>
@@ -68,15 +128,6 @@
       
       <guid>https://shivambadkas.github.io/post/zoonotic-diseases-and-the-current-pandemic/</guid>
       <description>Reading the Trovao and Nelson papers about the origin and spread of pandemic influenza strains whilst experiencing it firsthand (in the ‘comfort’ of my own home) was quite surreal; it’s rare to read an academic paper that has tangible influence over ones person life. I would like to discuss how developing countries can minimize the probability of incidence of zoonotic diseases. The Trovao paper discussed how modern swine agriculture combined with global trade make the associated influenza virus extremely difficult to deal with.</description>
-    </item>
-    
-    <item>
-      <title>Project 4</title>
-      <link>https://shivambadkas.github.io/project/project4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://shivambadkas.github.io/project/project4/</guid>
-      <description></description>
     </item>
     
   </channel>

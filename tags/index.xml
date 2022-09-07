@@ -6,7 +6,178 @@
     <description>Recent content in Tags on Shivam Badkas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shivambadkas.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://shivambadkas.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Review</title>
+      <link>https://shivambadkas.github.io/tags/book-review/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/tags/book-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PCA</title>
+      <link>https://shivambadkas.github.io/tags/pca/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/tags/pca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>t-SNE</title>
+      <link>https://shivambadkas.github.io/tags/t-sne/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/tags/t-sne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K-NN</title>
+      <link>https://shivambadkas.github.io/tags/k-nn/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/tags/k-nn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logistic Regression</title>
+      <link>https://shivambadkas.github.io/tags/logistic-regression/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/tags/logistic-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Forest</title>
+      <link>https://shivambadkas.github.io/tags/random-forest/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/tags/random-forest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lasso Regression</title>
+      <link>https://shivambadkas.github.io/tags/lasso-regression/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/tags/lasso-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regularization</title>
+      <link>https://shivambadkas.github.io/tags/regularization/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/tags/regularization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ridge Regression</title>
+      <link>https://shivambadkas.github.io/tags/ridge-regression/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/tags/ridge-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Extraction</title>
+      <link>https://shivambadkas.github.io/tags/feature-extraction/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/tags/feature-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recursive Random Forests</title>
+      <link>https://shivambadkas.github.io/tags/recursive-random-forests/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/tags/recursive-random-forests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SelectKBest</title>
+      <link>https://shivambadkas.github.io/tags/selectkbest/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/tags/selectkbest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>literature</title>
+      <link>https://shivambadkas.github.io/tags/literature/</link>
+      <pubDate>Fri, 15 Apr 2022 04:36:44 -0400</pubDate>
+      
+      <guid>https://shivambadkas.github.io/tags/literature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opinion</title>
+      <link>https://shivambadkas.github.io/tags/opinion/</link>
+      <pubDate>Fri, 15 Apr 2022 04:36:44 -0400</pubDate>
+      
+      <guid>https://shivambadkas.github.io/tags/opinion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>politics</title>
+      <link>https://shivambadkas.github.io/tags/politics/</link>
+      <pubDate>Fri, 15 Apr 2022 04:36:44 -0400</pubDate>
+      
+      <guid>https://shivambadkas.github.io/tags/politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>review</title>
+      <link>https://shivambadkas.github.io/tags/review/</link>
+      <pubDate>Fri, 15 Apr 2022 04:36:44 -0400</pubDate>
+      
+      <guid>https://shivambadkas.github.io/tags/review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Inferencing</title>
+      <link>https://shivambadkas.github.io/tags/bayesian-inferencing/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/tags/bayesian-inferencing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Derivative Plots</title>
+      <link>https://shivambadkas.github.io/tags/derivative-plots/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/tags/derivative-plots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INLA</title>
+      <link>https://shivambadkas.github.io/tags/inla/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/tags/inla/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>academia</title>
       <link>https://shivambadkas.github.io/tags/academia/</link>
@@ -35,11 +206,29 @@
     </item>
     
     <item>
-      <title>opinion</title>
-      <link>https://shivambadkas.github.io/tags/opinion/</link>
-      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      <title>Gamma Distribution</title>
+      <link>https://shivambadkas.github.io/tags/gamma-distribution/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://shivambadkas.github.io/tags/opinion/</guid>
+      <guid>https://shivambadkas.github.io/tags/gamma-distribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixed Models</title>
+      <link>https://shivambadkas.github.io/tags/mixed-models/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/tags/mixed-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survival Analysis</title>
+      <link>https://shivambadkas.github.io/tags/survival-analysis/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/tags/survival-analysis/</guid>
       <description></description>
     </item>
     

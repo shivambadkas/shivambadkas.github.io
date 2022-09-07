@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>t-SNE on Shivam Badkas</title>
+    <link>https://shivambadkas.github.io/tags/t-sne/</link>
+    <description>Recent content in t-SNE on Shivam Badkas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://shivambadkas.github.io/tags/t-sne/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dimensionality Reduction</title>
+      <link>https://shivambadkas.github.io/project/project6/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shivambadkas.github.io/project/project6/</guid>
+      <description>Link to Project
+One major problem of high dimensional data is the difficulty in interpreting and computing data not in three dimensions. The curse of dimensionality refers to the problems that arise with data with a high amount of features, therefore it is wise to reduce dimensions for many reasons including computation, model performance, and interpretability. Principal Components Analysis is a linear unsupervised learning algorithm which essentially transforms the original set of vectors into a new set.</description>
+    </item>
+    
+  </channel>
+</rss>
